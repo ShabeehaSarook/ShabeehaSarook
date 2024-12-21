@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m @ShabeehaSarook<br> 👀 I’m interested in ...<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate on ...<br> 📫 How to reach me ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...<br>
+# 👋 Hi, I'm Shabeeha  
+💻 Full Stack Developer | Passionate about building scalable applications.  
+📚 Currently learning advanced algorithms and contributing to open-source projects.  
+🌱 Skilled in Java, mongodb, express,React, Node.js,php and python  
+📫 Reach me at: shabeehazarook@gmail.com | LinkedIn: www.linkedin.com/in/shabeeha-sarook-41b0b9323 
+⚡ Fun fact: Coffee fuels my code! ☕  
+
 
 
 ## 🌐 Socials:
